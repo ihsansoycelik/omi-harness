@@ -1,0 +1,8 @@
+.omi/agent/
+.omi/logs/
+.omi/run/
+.bun/
+*.bin
+*.tar.gz
+*.typescript
+node_modules/
